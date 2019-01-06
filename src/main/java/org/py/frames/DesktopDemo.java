@@ -1,20 +1,17 @@
 package org.py.frames;
 
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class DesktopDemo {
     private JPanel mPanel;
     private JTextField uriTextField;
     private JButton launchBrowserButton;
-    private JTextField textField2;
+    private JTextField emailTextField;
     private JButton launchMailButton;
     private JRadioButton openRadioButton;
     private JRadioButton editRadioButton;
     private JRadioButton printRadioButton;
-    private JTextField textField3;
+    private JTextField fileTextField;
     private JButton browseButton;
     private JButton launchApplicationButton;
     private JPanel cPanel;
